@@ -275,7 +275,7 @@ DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress, SaleDate
 
 
 ---- Using OPENROWSET
---USE PortfolioProject;
+--USE Project;
 --GO
 --SELECT * INTO nashvilleHousing
 --FROM OPENROWSET('Microsoft.ACE.OLEDB.12.0',
